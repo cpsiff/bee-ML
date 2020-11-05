@@ -1,8 +1,8 @@
 # Fdb version 3
-["pdflatex"] 1604550087 "/home/carter/repos/bee-ML/report/report.tex" "/home/carter/repos/bee-ML/report/report.pdf" "report" 1604550099
+["pdflatex"] 1604595015 "/home/carter/repos/bee-ML/report/report.tex" "/home/carter/repos/bee-ML/report/report.pdf" "report" 1604595015
   "/etc/texmf/web2c/texmf.cnf" 1600283552 475 c0e671620eb5563b2130f56340a5fde8 ""
-  "/home/carter/repos/bee-ML/report/report.aux" 1604550087 141 4fc6299492b8e90b9fa1c36bae7618c4 ""
-  "/home/carter/repos/bee-ML/report/report.tex" 1604550099 1818 ac9420d5f39c1fa9bdb88ebdd9b3190b ""
+  "/home/carter/repos/bee-ML/report/report.aux" 1604595015 141 4fc6299492b8e90b9fa1c36bae7618c4 ""
+  "/home/carter/repos/bee-ML/report/report.tex" 1604595015 1818 c091eb0a162267dbc891c2da3478fddc ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm" 1136768653 1328 c834bbb027764024c09d3d2bf908b5f0 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm" 1136768653 1324 c910af8c371558dc20f2d7822f66fe64 ""
@@ -58,11 +58,11 @@
   "/usr/share/texmf/web2c/texmf.cnf" 1581979058 38841 ce3692aa899bb693b90b87eaa5d4d84e ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1600283559 128028 f533b797fba58d231669ea19e894e23e ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1600283564 4791332 4136782f579604c42ce8b6c33708bc2e ""
-  "report.aux" 1604550087 141 4fc6299492b8e90b9fa1c36bae7618c4 "pdflatex"
-  "report.tex" 1604550099 1818 ac9420d5f39c1fa9bdb88ebdd9b3190b ""
+  "report.aux" 1604595015 141 4fc6299492b8e90b9fa1c36bae7618c4 "pdflatex"
+  "report.tex" 1604595015 1818 c091eb0a162267dbc891c2da3478fddc ""
   (generated)
-  "/home/carter/repos/bee-ML/report/report.log"
   "report.log"
   "/home/carter/repos/bee-ML/report/report.pdf"
   "report.aux"
+  "/home/carter/repos/bee-ML/report/report.log"
   "report.pdf"
