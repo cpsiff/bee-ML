@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "marine-potion-295719",
+  "private_key_id": "a95df9756ff914569ca2bbc5e5052b3ead26a270",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCfxhIAnD0imWA7\nMCbIYVIpyLl93mzr5aO/WIGisulEweeFa6Dnx/39V8CqYJTIPB5iy51DjMPebSo0\n9eBq/kgxSp+cOnNZqaXAFD2IZjrXnSOj7h8jbanBgJJYkvCuBtqN90w/w9BZyKg6\ntCuwg9kJRoQUvaNCgPYMHvn+dWCUbC8RCM9ZkUX8E8yyQQ6QEfxeI+gTdbHWx+9f\n7T/VRYNDIbwUn8JmwO8szMIR4zeXNiBs6RX+sxfMgtK4ra1mCvbc6QihDAToXQ2j\ntSLsRGnnsJdm3GM7PV/NeE1qOo3raysUfm5+FhwDzJXFQ1IMCfWj6VkhhsJNEJ+u\nBardDJ3DAgMBAAECggEADhhFn0spM4OvUxlg2n2HZ4s/HeUA2+CizO8MZKN+46Nt\nfr4rcDca534Vz5H8nht7nMCUq5Bf+R/NQOXN+fJbwQlxwjD/2xGVvzep4/4Mw9en\nfL81fQUgHCNxBaJU3C1bm3mM/vURzNHgUWlyjzxaabCQV1oRbHz+97vF1xZYwk8T\nCZpOKzlID/WyHNs00CPMpusl3Quu6Buhrx1C/OaOC0BaG7r8uLL3dZ9qKIzSkku1\nxcghf6LfdpOHtFPeotzvo0ee2YGNsTiIdUcky+Mla9DgTRsjB6niznXUAD2uw8D9\nRQ87hJoUw4cJ6R+lhxAocHVKYPqrCmUAvlNsYfXK5QKBgQDgZOiZtX8fNt20y8jx\ne8gEJvdW3zKq2U0GUR1Yjd8bUjA0ztWsXDj5f4vkSOvPpTB9cp2vkhxh3EkXvmeR\nWCPstcCKwBJGNHCk4UNrvX89a/qRLGdcyJgSr88YkO8YeGDjXX5dSbRDTriGKjuS\nvvYFrY8PSjJbnmzC28OVNOvShwKBgQC2RxwfswRvM0zOLFPdFJ218S12YnFjw6Zb\ngjS+pUUcTH7JAFr95pcYm+x1Mv5lkjvU0HR6jzLVqqnJ3JqB3SuKHDW0DHvwZOAM\nIsqJSTUZC97u3zNUvgM3+rf/VZmzJ7twphXkth2j8aOM4uSPjxFYz2vO3a6CIetB\nsmRTRsAd5QKBgHD4HGoWB7PNSXzWA4ofiSkd/PPNVpLQ54hAmgeVFTeJ/x726nfl\nzgE+B02csKtPPMRLSbu0UXmrD1lW0IlJ2Hw5XH/+BrU1fWhkyC6brk1b6T/hHQCH\nNJhjzl1NyjGFmTGeRhntG0WvghJ5fJh6bx2YrSdDcWrSrWrEfQjHJdpNAoGAWAlO\nTw0idibb0LReKOg9J9P9djEjvOCRJ59ipDWkhH95uNEAIaNOlOcyNITVk+8mEKpB\np7QkBEiySrnOsixFTCZF1dk1vyypfZMMKXR/PcKbANoyq5o+abohRiRs4Leu80B0\nUIuZE0axDGnFpISgBznfQwGUuGtzeb6UcBg6z/UCgYBWBG+CbxXiDvS14d56GSgG\n7a4uABVQzNra6TpSeC4tipNT1vM+6fn28q6vInQIRieSzMpWjHrCdV5HcJoecc40\ngs5kZl/h9oQBqv9FS61XjacQfz/1QV5GTHAxY/Y+7xwejkBXPX30WkV+Kink338R\n9kYxfYvGtvINJYcCBoPwRA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "bee-ml@marine-potion-295719.iam.gserviceaccount.com",
+  "client_id": "100211318773182420105",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/bee-ml%40marine-potion-295719.iam.gserviceaccount.com"
+}
